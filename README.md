@@ -63,8 +63,12 @@ Minecraft mod adaptation of Elsweyr's Resource Pack: Paragonia
 
 *I used your recipes as much as possible.  JEI or NEI mods will show the recipes if you don't remember them.*
 
+## Paragonia v0.52 update
+
+### **Banners!** All 16 colors
+
 ### Known issues:
-**Flat Plane artifacts:** Quill, Papers, Candelabra flames, Lantern, Book-rest, Stone Podium, Scale  
+**Apiary:** Sits flat on the ground, not on legs. Some transparency issues.
 **Oversize blocks:** Bookshelves, Table, Podium, Mirror, Bench  
  *(Side-by-side the texture collides, the hit box shows full, but only when you're pointed within the blocks' normal hit box.)*
 
