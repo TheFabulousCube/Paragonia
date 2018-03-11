@@ -1,7 +1,35 @@
 # Paragonia
 Minecraft mod adaptation of Elsweyr's Resource Pack: Paragonia
 
-### Version 0.15: added textures from original Paragonia Texture Pack!
+## Paragonia v0.85 update
+
+### **Creatures!** Creatures are now available on the Creatures tab!
+*The creatures are still only decorative blocks, sorry.  I do have plans to animate them with AI just like regular Minecraft mobs,
+but it'll be a while.*
+
+### All **Decoration** blocks are in ##
+*I added these programatically (I wrote a program to do it for me), so they still need some tweaks*
+*I did **not** add recipes for the new Decorations.  Until I do, you'll have to pull them in Creative mode.*
+
+### Known issues:
+**Apiary:** Sits flat on the ground, not on legs.
+**Oversize blocks:** Bookshelves, Table, Podium, Mirror, Bench  
+ *(Side-by-side the texture collides, the hit box shows full, but only when you're pointed within the blocks' normal hit box.)*
+**Oversize blocks includes horses**  Temp fix is to place the horse on a (grass) block, then break the block.  The horse still floats a bit.
+*I'm writing a program to adjust the models to sit flat on the ground, when 1 is fixed, I'll have them ALL fixed.*
+
+Some sounds.
+
+## Paragonia v0.52 update
+
+### **Banners!** All 16 colors
+
+### Known issues:
+**Apiary:** Sits flat on the ground, not on legs. Some transparency issues.
+**Oversize blocks:** Bookshelves, Table, Podium, Mirror, Bench  
+ *(Side-by-side the texture collides, the hit box shows full, but only when you're pointed within the blocks' normal hit box.)*
+
+Some sounds.
 
 ## Paragonia v0.35 update
 
@@ -63,13 +91,4 @@ Minecraft mod adaptation of Elsweyr's Resource Pack: Paragonia
 
 *I used your recipes as much as possible.  JEI or NEI mods will show the recipes if you don't remember them.*
 
-## Paragonia v0.52 update
 
-### **Banners!** All 16 colors
-
-### Known issues:
-**Apiary:** Sits flat on the ground, not on legs. Some transparency issues.
-**Oversize blocks:** Bookshelves, Table, Podium, Mirror, Bench  
- *(Side-by-side the texture collides, the hit box shows full, but only when you're pointed within the blocks' normal hit box.)*
-
-Some sounds.
