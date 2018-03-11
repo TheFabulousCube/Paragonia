@@ -1,6 +1,13 @@
 # Paragonia
 Minecraft mod adaptation of Elsweyr's Resource Pack: Paragonia
 
+## Paragonia v0.87 update
+**Lighting!**
+Candelabras, candles, torches, camp fires of *all* kinds!
+**Model Placement**
+Models that previously were facing *away* from the player now face *toward* the player.
+You may have to adjust currently placed items accordingly.
+
 ## Paragonia v0.85 update
 
 ### **Creatures!** Creatures are now available on the Creatures tab!
